@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a programmer with over a year and a half of professional experience. 🔭 My work presents me with daily challenges related to databases, programming, and integrating various API interfaces. ✨ Currently, I am involved in expanding an ERP system using the Odoo platform. My main area of responsibility is the further development of an application for comprehensive offer management across different markets. My efforts are focused on automating business processes to increase efficiency. 🚀 I have a deep understanding of communication with external API interfaces, which I often utilize for smooth data transmission.
+I'm a programmer with nearly two years of professional experience. 🔭 My work presents me with daily challenges related to databases, programming, and integrating various API interfaces. ✨ Currently, I'm involved in expanding an ERP system using the Odoo platform. My main area of responsibility is the further development of an application for comprehensive offer management across different markets. My efforts are focused on automating business processes to increase efficiency. 🚀 I have a deep understanding of communication with external API interfaces, which I often utilize for smooth data transmission.
 
 
 <div align="center">
@@ -13,4 +13,4 @@ I'm a programmer with over a year and a half of professional experience. 🔭 My
 </div>
 
 
-
+In my free time, I'm developing my own ERP system, which will serve as an independent e-commerce platform equipped with all the necessary tools for managing online sales. 🛠️ This system aims to streamline the entire selling process, from inventory management to customer relations. 📦 Although it is still a work in progress, I would be delighted to showcase my achievements and the features I have implemented so far. ✨ Feel free to reach out if you are interested in exploring my work.
