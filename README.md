@@ -12,5 +12,5 @@ I'm a programmer with nearly two years of professional experience. 🔭 My work 
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 </div>
 
-
+<br/>
 In my free time, I'm developing my own ERP system, which will serve as an independent e-commerce platform equipped with all the necessary tools for managing online sales. 🛠️ This system aims to streamline the entire selling process, from inventory management to customer relations. 📦 Although it is still a work in progress, I would be delighted to showcase my achievements and the features I have implemented so far. ✨ Feel free to reach out if you are interested in exploring my work.
